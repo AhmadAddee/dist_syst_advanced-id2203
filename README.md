@@ -5,7 +5,7 @@ The subject of the course is demanding and requires continuous involvement and f
 ## Modules
 
 1. [Introduction to Distributed Systems](Introduction%20to%20Distributed%20Systems)
-2. Foundations
+2. [Foundations](Foundations)
 3. Broadcast
 4. Consensus
 5. Replicated Logs and State Machines
